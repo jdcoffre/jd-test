@@ -14,8 +14,6 @@ public class One {
 
   public String titi() {
     System.out.println("Adding a line");
-    System.out.println("Adding a line");
-    System.out.println("Adding a line");
     return message2;
   }
 
